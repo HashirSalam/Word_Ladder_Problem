@@ -1,0 +1,5 @@
+('C:\\Users\\Hashir\\Desktop\\PythonApplication2\\build\\directory_name\\pythonds-1.2.1-py2.7.egg',
+ None,
+ set(['*.py', '*.pyc', '*.pyd', '*.pyo', '*.so', 'EGG-INFO']),
+ 'DATA',
+ [])
